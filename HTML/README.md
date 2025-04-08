@@ -15,7 +15,8 @@
 - <form> 
 - <head> 
 - <header> 
-- <h1> to <h6> 
+- <h1> 
+- <h6> 
 - <hr> 
 - <html> 
 - <iframe> 
