@@ -4,7 +4,7 @@
 
 ## Noteable tags
 
-| Tags to worry about  |  |  |  |  |
+| Tags to worry about  | Tags to worry about | Tags to worry about | Tags to worry about | Tags to worry about |
 | ------------- | ------------- | -------------| --------------| -------------|
 | <a>  | <body>  | <br> |  <button> | <canvas> | 
 | <div>  | <em>  | <embed> |  <footer> | <form> |
